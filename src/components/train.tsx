@@ -3,9 +3,6 @@
 
 
 
-
-
-
 let MensWorkouts = [
   {
     id: "chest",
